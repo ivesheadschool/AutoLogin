@@ -1,0 +1,1 @@
+FileAppend, Another line.`n, LOGS/mainLog.txt

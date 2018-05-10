@@ -1,0 +1,11 @@
+Welcome to the AutoLoginV4 style guide.
+
+For *.AHK scripts
+
+	Script's
+		At the start of every script they should  be indexed using the following 
+
+	Varible's
+		Varible's must be declared at the start of every script unless they are being used as intervales e.g.  i = 1 then followed by a 'Loop'
+		
+	
