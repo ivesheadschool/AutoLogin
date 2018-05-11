@@ -4,7 +4,7 @@
 ## AHK
 this is some sample text
 ```diff
-- this will be highlighted in green
+this is a test
 - this will be highlighted in red
 ```
 
