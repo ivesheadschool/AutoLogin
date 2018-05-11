@@ -3,10 +3,10 @@
 
 ## AHK
 this is some sample text
-```html
-<span style="color:orange;">Word up</span>
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
 ```
-<span style="color:orange;">Word up</span>
 
 
 ## Python
