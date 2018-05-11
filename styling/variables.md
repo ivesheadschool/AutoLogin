@@ -8,6 +8,10 @@ this is some sample text
 - this will be highlighted in red
 ```
 
+```ahk
+;this is a var
+```
+
 
 ## Python
 this is some sample text
