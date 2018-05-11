@@ -3,9 +3,8 @@
 
 ## AHK
 this is some sample text
-```diff
-this is a test
-- this will be highlighted in red
+```html
+<h1 style="color: red;">this is a test</h1>
 ```
 
 
