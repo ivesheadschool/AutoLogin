@@ -1,4 +1,2 @@
 # AutoLogin
-**# AutoLogin **
-** # AutoLogin **
-
+## Variables
